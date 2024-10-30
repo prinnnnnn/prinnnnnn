@@ -1,6 +1,5 @@
 <h1> Hello, I'm Parinthorn Pornchaiviwat
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
-<br>
 <details>
   <summary>
     <h2>👩‍🦰 About Me</h2>
@@ -9,19 +8,20 @@
 I...
 
 </details>
-<br>
+<hr>
 <details>
   <summary>
   <h3> 🏫 Education </h3>
   </summary>
   
-* <br/>
+* Bachelor of Engineering in Computer Engineering 2022 - Present
 </details>
 
 <details>
   <summary>
   <h3> 🖥️ Projects </h3>
   </summary>
+  
 </details>
 
 <details>
