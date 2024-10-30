@@ -11,7 +11,7 @@ I...
 <hr>
 <details>
   <summary>
-  <h3> 🏫 Education </h3>
+  <h2> 🏫 Education </h2>
   </summary>
   
 * Bachelor of Engineering in Computer Engineering 2022 - Present
@@ -19,7 +19,7 @@ I...
 
 <details>
   <summary>
-  <h3> 🖥️ Projects </h3>
+  <h2> 🖥️ Projects </h2>
   </summary>
   
 </details>
